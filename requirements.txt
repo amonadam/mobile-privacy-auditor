@@ -1,0 +1,19 @@
+# Python 依赖项
+# Appium 客户端
+Appium-Python-Client
+
+# Frida 工具
+frida
+frida-tools
+
+# Mitmproxy 网络代理
+mitmproxy
+
+# 其他依赖
+requests
+protobuf
+pyyaml
+
+# GUI 依赖
+# tkinter 是 Python 标准库，无需单独安装
+# 如需额外的 GUI 库，可以在这里添加
